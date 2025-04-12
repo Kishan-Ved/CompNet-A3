@@ -1,6 +1,6 @@
 # Q1
 
-## a
+## A
 
 The solution is in the `q1.py` file. This contains 3 code snippets (2 commented, 1 uncommented) that include various experiments and tests that are documented in the report.
 
